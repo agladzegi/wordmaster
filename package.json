@@ -1,0 +1,19 @@
+{
+  "name": "wordmaster",
+  "version": "1.0.0",
+  "description": "Simple Blog Template",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "Blog",
+    "Template"
+  ],
+  "author": "Giorgi Agladze",
+  "license": "ISC",
+  "homepage": "https://agladzegi.github.io/wordmaster",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
